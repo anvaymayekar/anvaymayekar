@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvaymayekar&layout=compact&langs_count=8&hide_border=true&theme=github_dark&cache_seconds=0)](https://github.com/anvaymayekar/github-readme-stats)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anvaymayekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
